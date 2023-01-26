@@ -1,3 +1,6 @@
+/**
+*  Name: Riana Battick
+*/
 package org.howard.edu.lsp.assignment1;
 
 public class HelloWorld {
